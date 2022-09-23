@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Tipsy
+//  Tipper
 //
-//  Created by Angela Yu on 09/09/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Satish Kumar bezawada on 8/13/22.
+//  Copyright © 2022 The App Brewery. All rights reserved.
 //
 
 import UIKit
